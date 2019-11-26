@@ -2,3 +2,11 @@ featureA
 2
 3
 4
+feature3
+4
+5
+6
+featureB
+3
+4
+5
